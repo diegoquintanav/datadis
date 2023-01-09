@@ -1,7 +1,6 @@
-
 # Datadis
 
-Python client for https://datadis.es
+Python client for <https://datadis.es>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![Semantic Release](https://github.com/MrMarble/datadis/actions/workflows/release.yml/badge.svg)](https://github.com/MrMarble/datadis/actions/workflows/release.yml)
@@ -16,7 +15,7 @@ From [PyPi](https://pypi.org/project/datadis/)
 ```bash
 pip install datadis
 ```
-    
+
 ## Usage/Examples
 
 ```python
@@ -42,5 +41,3 @@ supplies = asyncio.run(get_supplies(token))
 #    }
 #]
 ```
-
-  
